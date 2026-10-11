@@ -8,10 +8,6 @@ description: Spatial matches lenders and borrowers directly on Robinhood Chain f
 
 Spatial is a credit market with two sides and no pool in the middle. Borrowers bring Robinhood Stock Tokens and ask for USDG. Lenders decide which of those requests they want to fund and at what price. When the two agree, a contract escrows the collateral, pays out the principal and keeps the loan on record until it is closed. Everything else in these pages is about doing that safely.
 
-{% hint style="info" %}
-Mainnet is where Spatial runs today: Robinhood Chain (chain ID 4663). Open the app at [onspatial.org/platform](https://onspatial.org/platform). You need a verified eligibility attestation before you can borrow or lend. Nothing here is investment advice; the pages describe how the protocol works.
-{% endhint %}
-
 ## A thirty day loan, told plainly
 
 Picture a holder of tokenized stock who needs dollars for a month and would rather not sell. On the other side sits a lender who wants a known return over that same month, backed by something they can value. Here is how Spatial brings them together.
